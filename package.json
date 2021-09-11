@@ -1,0 +1,23 @@
+{
+  "name": "dyno-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CycPhoenix/dyno-test.git"
+  },
+  "author": "CycPhoenix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CycPhoenix/dyno-test/issues"
+  },
+  "homepage": "https://github.com/CycPhoenix/dyno-test#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^12.5.3"
+  }
+}
